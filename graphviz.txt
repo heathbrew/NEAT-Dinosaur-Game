@@ -1,0 +1,4 @@
+Works in Ubuntu WSL only
+
+sudo apt install graphviz
+dot -Tpng input.gv -o output.png
